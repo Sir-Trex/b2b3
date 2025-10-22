@@ -1,4 +1,4 @@
-// Nexus Init B2B Marketing Agency - JavaScript with jQuery
+// B2B Network Base - Strategic B2B Marketing Solutions - JavaScript with jQuery
 $(document).ready(function() {
     
     // Initialize all components
@@ -501,14 +501,14 @@ $(document).ready(function() {
         }
         
         if (konamiCode.join(',') === konamiSequence.join(',')) {
-            showNotification('🎉 Konami Code activated! You found our Easter egg!', 'success');
+            showNotification('🎉 Konami Code activated! Welcome to the B2B Network Base!', 'success');
             $('body').addClass('rainbow-mode');
             setTimeout(() => $('body').removeClass('rainbow-mode'), 5000);
             konamiCode = [];
         }
     });
     
-    console.log('Nexus Init website loaded successfully! 🚀');
+    console.log('B2B Network Base website loaded successfully! 🚀');
     console.log('Try the Konami Code: ↑↑↓↓←→←→BA');
 });
 

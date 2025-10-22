@@ -1,14 +1,14 @@
-/* Custom CSS for Nexus Init B2B Marketing Agency */
+/* Custom CSS for B2B Network Base - Strategic B2B Marketing Solutions */
 
 :root {
-    --primary-color: #007bff;
-    --secondary-color: #6c757d;
-    --dark-color: #212529;
-    --light-color: #f8f9fa;
-    --success-color: #28a745;
-    --gradient-primary: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
-    --gradient-dark: linear-gradient(135deg, #343a40 0%, #212529 100%);
-    --shadow-light: 0 2px 4px rgba(0,0,0,0.1);
+    --primary-color: #2563eb;
+    --secondary-color: #6b7280;
+    --dark-color: #1f2937;
+    --light-color: #f9fafb;
+    --success-color: #10b981;
+    --gradient-primary: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    --gradient-dark: linear-gradient(135deg, #374151 0%, #1f2937 100%);
+    --shadow-light: 0 1px 3px rgba(0,0,0,0.12);
     --shadow-medium: 0 4px 6px rgba(0,0,0,0.1);
     --shadow-heavy: 0 10px 25px rgba(0,0,0,0.15);
 }
